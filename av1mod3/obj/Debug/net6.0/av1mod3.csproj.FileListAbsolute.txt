@@ -1,0 +1,15 @@
+C:\Users\rhuan\OneDrive\Área de Trabalho\letscode-956-poo\av1mod3\av1mod3\bin\Debug\net6.0\av1mod3.exe
+C:\Users\rhuan\OneDrive\Área de Trabalho\letscode-956-poo\av1mod3\av1mod3\bin\Debug\net6.0\av1mod3.deps.json
+C:\Users\rhuan\OneDrive\Área de Trabalho\letscode-956-poo\av1mod3\av1mod3\bin\Debug\net6.0\av1mod3.runtimeconfig.json
+C:\Users\rhuan\OneDrive\Área de Trabalho\letscode-956-poo\av1mod3\av1mod3\bin\Debug\net6.0\av1mod3.dll
+C:\Users\rhuan\OneDrive\Área de Trabalho\letscode-956-poo\av1mod3\av1mod3\bin\Debug\net6.0\av1mod3.pdb
+C:\Users\rhuan\OneDrive\Área de Trabalho\letscode-956-poo\av1mod3\av1mod3\obj\Debug\net6.0\av1mod3.csproj.AssemblyReference.cache
+C:\Users\rhuan\OneDrive\Área de Trabalho\letscode-956-poo\av1mod3\av1mod3\obj\Debug\net6.0\av1mod3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rhuan\OneDrive\Área de Trabalho\letscode-956-poo\av1mod3\av1mod3\obj\Debug\net6.0\av1mod3.AssemblyInfoInputs.cache
+C:\Users\rhuan\OneDrive\Área de Trabalho\letscode-956-poo\av1mod3\av1mod3\obj\Debug\net6.0\av1mod3.AssemblyInfo.cs
+C:\Users\rhuan\OneDrive\Área de Trabalho\letscode-956-poo\av1mod3\av1mod3\obj\Debug\net6.0\av1mod3.csproj.CoreCompileInputs.cache
+C:\Users\rhuan\OneDrive\Área de Trabalho\letscode-956-poo\av1mod3\av1mod3\obj\Debug\net6.0\av1mod3.dll
+C:\Users\rhuan\OneDrive\Área de Trabalho\letscode-956-poo\av1mod3\av1mod3\obj\Debug\net6.0\refint\av1mod3.dll
+C:\Users\rhuan\OneDrive\Área de Trabalho\letscode-956-poo\av1mod3\av1mod3\obj\Debug\net6.0\av1mod3.pdb
+C:\Users\rhuan\OneDrive\Área de Trabalho\letscode-956-poo\av1mod3\av1mod3\obj\Debug\net6.0\av1mod3.genruntimeconfig.cache
+C:\Users\rhuan\OneDrive\Área de Trabalho\letscode-956-poo\av1mod3\av1mod3\obj\Debug\net6.0\ref\av1mod3.dll
